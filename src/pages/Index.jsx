@@ -7,36 +7,36 @@ export function loader() {
         id: 1,
         nombre: 'Juan',
         telefono: 102013313,
-        email: "juan@juan.com",
-        empresa: 'Codigo Con Juan'
+        email: "juan@jhesus.com",
+        empresa: 'Empresa Jhechus'
     },
     {
         id: 2,
         nombre: 'Karen',
         telefono: 138198313,
-        email: "karen@juan.com",
-        empresa: 'Codigo Con Juan'
+        email: "karen@jhesus.com",
+        empresa: 'Empresa Jhechus'
     },
     {
         id: 3,
         nombre: 'Josue',
         telefono: 31983913,
-        email: "josue@juan.com",
-        empresa: 'Codigo Con Juan'
+        email: "josue@jhesus.com",
+        empresa: 'Empresa Jhechus'
     },
     {
         id: 4,
         nombre: 'Miguel',
         telefono: 319381983,
-        email: "miguel@juan.com",
-        empresa: 'Codigo Con Juan'
+        email: "miguel@jhesus.com",
+        empresa: 'Empresa Jhechus'
     },
     {
         id: 5,
         nombre: 'Pedro',
         telefono: 1398198938,
-        email: "pedro@juan.com",
-        empresa: 'Codigo Con Juan'
+        email: "pedro@jhesus.com",
+        empresa: 'Empresa Jhechus'
     },
 ];
 
